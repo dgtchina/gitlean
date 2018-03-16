@@ -6,3 +6,4 @@ asdfasdasdfasdf
 asdasdfasdfasd
 xc.masldkjjasdflkjlasd
 oiuioqwerjsdfgkjl;sad
+Creating a new branch is quick.
